@@ -1,0 +1,6 @@
+package com.sumirelabs.pcla.config;
+
+public enum Feature {
+    BLOCK_LIGHT, SKY_LIGHT, FILTERS, STAINED_GLASS, STAINED_GLASS_PANES,
+    BLOCK_RENDERING, ENTITY_RENDERING, CELERITAS
+}

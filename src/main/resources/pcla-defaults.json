@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "features": {
+    "BLOCK_LIGHT": true,
+    "SKY_LIGHT": true,
+    "FILTERS": true,
+    "STAINED_GLASS": true,
+    "STAINED_GLASS_PANES": true,
+    "BLOCK_RENDERING": true,
+    "ENTITY_RENDERING": true,
+    "CELERITAS": true
+  },
+  "rules": {
+    "EMISSION": [],
+    "FILTER": [],
+    "BLOCK_RENDERING": [],
+    "ENTITY_RENDERING": []
+  }
+}

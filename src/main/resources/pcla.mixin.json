@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.sumirelabs.pcla.mixin",
+  "plugin": "com.sumirelabs.pcla.mixin.PclaMixinPlugin",
+  "compatibilityLevel": "JAVA_25",
+  "target": "@env(DEFAULT)",
+  "client": ["MixinRgbTerrain", "MixinRgbBufferDraw", "MixinRgbLightingState", "MixinRgbShutdown", "MixinRgbTileEntity", "MixinRgbHand", "MixinCeleritasRgbShader", "MixinCeleritasRgbUniforms", "MixinCeleritasRgbVertexType", "MixinPulsarPaintingRgb", "MixinDisplayLightmap", "MixinBlockTint", "MixinForgeBlockTint", "MixinFluidTint", "MixinEntityTint", "MixinEntityColor", "MixinEntityNameTint", "MixinPaintingTint", "MixinCeleritasBlockTint"],
+  "injectors": {"defaultRequire": 1}
+}
